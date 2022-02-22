@@ -1,8 +1,8 @@
-# Gigabyte AB350M Gaming 3 Opencore EFI
-
-Opencore EFI for Gigabyte AB350M Gaming 3 Runing High Sierra W nVIDIA Web Drivers.
+#Opencore EFI for Gigabyte AB350M Gaming 3 Runing High Sierra W nVIDIA Web Drivers.
 
 Should work for newer versions with a few changes in the config.plist
+
+Please refer to https://dortania.github.io/OpenCore-Install-Guide/ for info on how to make an installer and the bios settings you need to change
 
 # Tested With
 Ryzen 5 1600
