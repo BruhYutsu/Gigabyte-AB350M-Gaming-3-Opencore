@@ -14,8 +14,11 @@ EVGA Nvidia GTX 1050 2GB
 
 # What's Working
 Graphics with nvidia web drivers (Tested with GTX 1050)
+
 USB
+
 Audio (NOT 100% Tested as i use a usb interface)
+
 Ethernet
 
 # What's NOT Working
