@@ -5,7 +5,11 @@ Opencore EFI for Gigabyte AB350M Gaming 3 Runing High Sierra W nVIDIA Web Driver
 Should work for newer versions with a few changes in the config.plist
 
 # Tested With
-Ryzen 5 1600, EVGA Nvidia GTX 1050 2GB, 8GB DDR4
+Ryzen 5 1600
+
+EVGA Nvidia GTX 1050 2GB
+
+8GB DDR4
 
 
 # What's Working
